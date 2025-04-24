@@ -2,6 +2,9 @@
   <img src="Banner.png" alt="zZipCracker" width="300"/>
 </p>
 
+<p align="right">
+  <a href="./README_en.md">Switch to English version</a>
+</p>
 
 # zZipCracker – Brute-Force ZIP-Knacker-Tool
 
