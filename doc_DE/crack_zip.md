@@ -228,7 +228,7 @@ Start
 Documentation written by: Jose Luis Ocana (GitHub: [0xZorro](https://github.com/0xZorro))  
 Last updated: April 2025
 
-div align="center">
+<div align="center">
   <img src="brand.png" alt="by 0xZorro" width="120"/>
   <br/>
   <sub>© 2025 0xZorro</sub>
