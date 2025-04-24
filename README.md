@@ -223,7 +223,7 @@ Jeglicher Missbrauch, insbesondere gegen fremde Systeme oder ohne Erlaubnis, ist
 Der Autor übernimmt keinerlei Verantwortung oder Haftung für Schäden, Datenverlust oder rechtliche Konsequenzen, die durch den Einsatz dieser Software entstehen.  
 Die Nutzung erfolgt auf **eigene Gefahr** – nur in Testumgebungen verwenden!
 
---
+---
 
 <div align="center">
   <img src="brand.png" alt="by 0xZorro" width="120"/>
